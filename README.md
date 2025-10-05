@@ -34,7 +34,7 @@
 
 ### 👨‍💻 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,laravel,react,java,bash,kalilinux,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,laravel,react,java,bash,kali,git" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### ☕ Support Me
+### Support Me
 <p align="center">
   <a href="https://ko-fi.com/oscodesecurity">
     <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge" />
