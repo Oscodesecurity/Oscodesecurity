@@ -5,16 +5,13 @@
 </p>
 
 <p align="center">
-  🔥 FullStack Developer | 🧠 Bug Hunter | 🕵️‍♂️ Pentester
+  FullStack Developer | Bug Hunter | Pentester
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/oscodesecurity" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://tiktok.com/@oscodesecurity" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
@@ -28,7 +25,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 > Cybersecurity Enthusiast, FullStack Dev, and Pentester who loves finding vulnerabilities and turning exploits into protection.  
 > Exploring automation, web security, and performance optimization.  
 > Always learning, breaking, and building 🧩
