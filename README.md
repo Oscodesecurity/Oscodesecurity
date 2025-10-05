@@ -1,4 +1,4 @@
-<h1 align="center">👾 Hello World, I'm Oscodesecurity 🔥</h1>
+<h1 align="center">Hello World, I'm Oscodesecurity</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Oscodesecurity&fontSize=50&fontColor=fff&animation=twinkling" />
@@ -35,9 +35,9 @@
 
 ---
 
-### 💪 Skills
+### 👨‍💻 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,laravel,react,java,bash,linux,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,laravel,react,java,bash,kalilinux,git" />
 </p>
 
 ---
@@ -46,13 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oscodesecurity&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscodesecurity&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-### 🕹️ Activity Snake
-<p align="center">
-  <img src="https://github.com/Oscodesecurity/Oscodesecurity/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
