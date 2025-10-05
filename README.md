@@ -15,7 +15,7 @@
   <a href="https://t.me/oscodesecurity" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
+  <a href="https://wa.me/628892128871" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://tiktok.com/@oscodesecurity" target="_blank">
@@ -37,7 +37,7 @@
 
 ### 👨‍💻 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,laravel,react,java,bash,kali,sqlmap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,laravel,react,java,bash,kali,figma" />
 </p>
 
 ---
