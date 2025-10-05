@@ -29,9 +29,14 @@
 ---
 
 ### About Me
-> 💻 Cybersecurity Enthusiast, FullStack Dev, and Pentester who loves breaking systems and building better ones.  
-> 🔥 Passionate about automation, web security, and system optimization.  
-> 🧠 Always learning, breaking, and rebuilding — the hacker way.
+Perkenalkan, saya Oscodesecurity, seorang pembelajar otodidak yang mulai menjelajahi teknologi sejak usia muda.
+Saya mulai belajar pemrograman bukan melalui sekolah, melainkan dari rasa ingin tahu yang tinggi, eksperimen, dan kegigihan untuk memahami cara kerja dunia digital.
+
+Saya menghabiskan sebagian besar waktu saya menjelajahi keamanan siber dan pemrograman. Saat ini, saya fokus menciptakan alat untuk bug hunter dan pentester, sekaligus terus mengasah kemampuan saya setiap hari.
+
+Saya percaya bahwa pengetahuan bukan tentang usia atau gelar, melainkan tentang kegigihan, konsistensi, dan hasrat untuk terus belajar.
+
+
 
 ---
 
